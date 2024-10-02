@@ -1,0 +1,18 @@
+.updates {
+    padding: 20px;
+    text-align: left;
+}
+
+.updates h2 {
+    color: #333;
+}
+
+.updates ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.updates li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
