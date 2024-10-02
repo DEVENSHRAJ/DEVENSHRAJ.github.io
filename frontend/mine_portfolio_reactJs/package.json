@@ -41,5 +41,6 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://github.com/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs"
+  "_comment": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://DEVENSHRAJ.github.io/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs"
 }
