@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/css/main.bf3807db.css",
+    "main.js": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/js/main.a68dc212.js",
+    "static/js/453.ffb6618f.chunk.js": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/js/453.ffb6618f.chunk.js",
+    "index.html": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/index.html",
+    "main.bf3807db.css.map": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/css/main.bf3807db.css.map",
+    "main.a68dc212.js.map": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/js/main.a68dc212.js.map",
+    "453.ffb6618f.chunk.js.map": "/DEVENSHRAJ/Personal_Portfolio/tree/main/frontend/mine_portfolio_reactJs/static/js/453.ffb6618f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3807db.css",
+    "static/js/main.a68dc212.js"
+  ]
+}
